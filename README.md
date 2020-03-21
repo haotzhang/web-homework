@@ -15,4 +15,3 @@ Fibonacci.of(5) == 5
 
 
 
-# web-homework
